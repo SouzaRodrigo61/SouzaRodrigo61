@@ -1,6 +1,6 @@
 ## 👋 Hello world, `I'm Rodrigo Santos` :octocat: 
 ### Programmer who loves solve problems.
-Full Stack Developer:rocket: from Brazil, I have 4+ years experience in Front-end and Back-end, and 2+ years experience in Mobile.
+Full Stack Developer:rocket: from Brazil
 
 ### 📓 Tecnologies
 - Languages and Tecnologies: 

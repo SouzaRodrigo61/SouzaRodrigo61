@@ -1,5 +1,5 @@
 ## 👋 Hello world, `I'm Rodrigo Santos` :octocat: 
-### Programmer who loves solve problems.
+### Programmer.
 Full Stack Developer:rocket: from Brazil
 
 ### 📓 Tecnologies

@@ -7,7 +7,7 @@ Software Enginner
 
 I'm working on developing Front-end and Back-End projects within the environment of Banco do Brasil. One of the most interesting projects and the blockchain in partnership with Petrobras and the project to validate the rate of exchange between the brands (credit card) with the bank. I am a person who is always looking to learn more and new things. challenges that in your area are very constant. In addition, I am studying postgraduate degree in mobile development to become a specialist in the future on that subject. In 2019, I left Banco do Brasil and started working on the support project at federal police, with legacy java development. In 2021 I started working on the development of the natura platform (banking mobile). 
 
-Today I am working on the development of the FGTS Anticipation of birthday withdrawal within PagSeguro.  
+Today I am working on the development of the FGTS withdrawal within PagSeguro.  
 
 * 🌍  I'm based in Brasilia, Brazil 
 * ✉️  You can contact me at [souza.rodrigo61@gmail.com](mailto:souza.rodrigo61@gmail.com) 

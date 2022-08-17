@@ -9,7 +9,7 @@ Today I am working on the development of the FGTS withdrawal within PagSeguro.
 
 * 🌍  I'm based in Brasilia, Brazil 
 * ✉️  You can contact me at [souza.rodrigo61@gmail.com](mailto:souza.rodrigo61@gmail.com) 
-* 🧠  I'm learning Flutter, Swift, Vue.js, Golang, Java and Kotlin
+* 🧠  I'm working Flutter, Swift, Golang, Java and Kotlin
 
 <a href="https://www.github.com/SouzaRodrigo61" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/SouzaRodrigo61?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/souzarodrigo61" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/souzarodrigo61?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 

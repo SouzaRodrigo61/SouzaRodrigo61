@@ -4,9 +4,6 @@ Hi 👋 My name is Rodrigo Santos
 Software Enginner 
 -----------------
 
-
-Today I am working on the development of the FGTS withdrawal within PagSeguro.  
-
 * 🌍  I'm based in Brasilia, Brazil 
 * ✉️  You can contact me at [souza.rodrigo61@gmail.com](mailto:souza.rodrigo61@gmail.com)
 
